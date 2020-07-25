@@ -1,0 +1,61 @@
+﻿#EXTM3U
+
+#EXTINF:-1 tvg-log="https://s3.amazonaws.com/prod-wp-tvc/wp-content/uploads/2020/05/Generica-TSi.png",CANAL TSI
+https://bcovlive-a.akamaihd.net/5a4db02a43d645729f273b91c5ba9238/us-west-2/6056665196001/profile_3/chunklist.m3u8
+
+#EXTINF:-1 , CANAL 5
+https://bcovlive-a.akamaihd.net/8520a5c6a0384300b735385e02e2f582/us-west-2/6056665196001/profile_2/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.canal6.com.hn/2020/01/logo-black-100.png", CANAL 6
+https://ott.streann.com/loadbalancer/services/public/channels-secure/5ba026492cdc1a7124d02fb7/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/prod-wp-tvc/wp-content/uploads/2020/05/Plantilla-Telecadena.png", TELECADENA 7 Y 4
+https://bcovlive-a.akamaihd.net/825f39eaa17d4794a3898945026556e0/us-west-2/6056665196001/profile_2/chunklist.m3u8
+
+#EXTINF:-1 ,TEN CANAL 10 HD
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1636016497_b1848000.m3u8
+
+#EXTINF:-1 , tvg-logo="https://1.bp.blogspot.com/-l5BUOsF2VNY/XQ4nSLwzk6I/AAAAAAAAH2I/uVeDBUt-AgIHDyHh3pRv0jXd8V7UHJ4OgCLcBGAs/s1600/Canal%2BCholusat%2BSur.png",CHOLUPSAF
+http://audiotvserver.net:1935/livemedia/cholusat/chunklist_w777893136.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-hQNu_CQI1Jc/XTgXlPRffMI/AAAAAAAAIGQ/XsW3rzwzzVEaJCJwFUQyHID7gpBEbhi5gCLcBGAs/s1600/Canal%2BHCH%2BTV%2B%25281%2529.png",HCH
+http://stream.innovandote.com:1935/hch/hch/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo=¨http://www.mix.hn/img/tv/fb/Globo-Tv.png¨,GLOVO TV
+https://panel.dattalive.com/8122/8122/chunklist_w1288621927.m3u8
+
+
+#EXTINF:-1 tvg-logo=¨http://www.mix.hn/img/tv/fb/TeleHondurasMas.png¨,TELE HONDURAS
+https://emisoras.hn:8081/telehnmas/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, CANAL Q HUBO TV
+http://st2.worldkast.com/8030/8030/chunklist_w278915523.m3u8?checkedby:iptvcat.com
+
+
+#EXTINF:-1 Teleceiba Canal 7
+http://190.11.224.14:8134/liveevent.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 ,CHTV
+https://5d00db0e0fcd5.streamlock.net/7114/7114/chunklist_w1298435881.m3u8
+
+#EXTINF:-1 ,EBENEZERTV
+http://hds4.worldkast.com:1935/ebenezertv2/ebenezertv2_source/live.m3u8
+
+#EXTINF:-1, MAYA TV
+https://5d00db0e0fcd5.streamlock.net/7334/7334/chunklist_w406620349.m3u8
+
+#EXTINF:-1 tvg-logo=¨http://www.mix.hn/img/tv/fb/EDN-Tv.png¨, EDN TV
+https://59802217c6db4.streamlock.net/edntv/videoedntv/chunklist_w555915131.m3u8
+
+#EXTINF:-1 tvg-logo=¨http://www.mix.hn/img/tv/fb/MetroTv.png¨, METRO TV
+https://emisoras.hn:8081/metrotv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo=¨http://www.mix.hn/img/tv/fb/DTV-RD.png¨,DTV TV
+https://emisoras.hn:8081/dtv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 ,TELEMUSICA
+http://186.155.200.118:1935/live/telemusica_web/chunklist_w2133308769.m3u8
+
+
